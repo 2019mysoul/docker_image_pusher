@@ -8,3 +8,4 @@ frappe/erpnext:latest
 redis
 mariadb
 node
+python
