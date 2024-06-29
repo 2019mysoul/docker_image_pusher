@@ -9,3 +9,5 @@ redis
 mariadb
 node
 python
+Docker Compose
+Docker
