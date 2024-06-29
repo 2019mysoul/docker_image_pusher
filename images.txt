@@ -4,7 +4,7 @@ nginx
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-frappe/erpnext:15.28.1
+frappe/erpnext:V15.28.1
 redis
 mariadb
 node
