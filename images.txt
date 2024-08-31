@@ -5,4 +5,3 @@ redis
 mariadb
 node
 python
-Django
