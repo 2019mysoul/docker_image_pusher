@@ -5,3 +5,5 @@ redis
 mariadb
 node
 python
+go-zero
+gin
