@@ -7,4 +7,4 @@ node
 python
 postgres
 golang
-go-zero
+kevinwan/go-zero
