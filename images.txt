@@ -6,4 +6,3 @@ mariadb
 node
 python
 postgres
-aeger
