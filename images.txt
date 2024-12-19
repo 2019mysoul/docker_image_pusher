@@ -6,3 +6,5 @@ mariadb
 node
 python
 postgres
+golang
+go-zero
