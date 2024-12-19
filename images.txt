@@ -6,5 +6,4 @@ mariadb
 node
 python
 postgres
-consul
 aeger
