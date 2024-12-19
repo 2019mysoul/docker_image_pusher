@@ -7,4 +7,4 @@ node
 python
 postgres
 golang
-kevinwan/go-zero
+nginx
