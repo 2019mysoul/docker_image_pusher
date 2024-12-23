@@ -8,3 +8,5 @@ python
 postgres
 golang
 nginx
+jaegertracing/all-in-one
+Consul Democracy
