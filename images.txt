@@ -9,4 +9,4 @@ postgres
 golang
 nginx
 jaegertracing/all-in-one
-Consul Democracy
+consuldemocracy/installer
