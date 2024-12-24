@@ -1,5 +1,5 @@
 nginx
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics
 frappe/erpnext:latest
 redis
 mariadb
@@ -7,6 +7,5 @@ node
 python
 postgres
 golang
-nginx
+alpine
 jaegertracing/all-in-one
-consuldemocracy/installer
