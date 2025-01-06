@@ -9,6 +9,3 @@ postgres
 golang
 alpine
 jaegertracing/all-in-one
-pydantic/FastUI
-tiangolo/fastapi
-zeromicro/go-zero
