@@ -9,3 +9,7 @@ postgres
 golang
 alpine
 jaegertracing/all-in-one
+pallets/flask
+pydantic/FastUI
+tiangolo/fastapi
+zeromicro/go-zero
