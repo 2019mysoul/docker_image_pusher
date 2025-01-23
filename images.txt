@@ -9,3 +9,4 @@ postgres
 golang
 alpine
 jaegertracing/all-in-one
+pydantic/FastUI:latest
