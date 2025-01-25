@@ -9,3 +9,6 @@ postgres
 golang
 alpine
 jaegertracing/all-in-one
+adminer
+traefik
+schickling/mailcatcher
